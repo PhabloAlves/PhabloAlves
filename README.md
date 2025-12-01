@@ -1,91 +1,77 @@
-# Hey, I'm Phablo 👋
+# Hey, I'm Phablo 👋  
+**Full-Stack Developer with a Security Mindset**
 
-**Full-stack developer with a security mindset.**
+> I code with a hacker's mindset — security isn't a feature, it's the foundation.
 
 ---
 
 ## 🧠 About Me
 
-I'm a full-stack developer with 2+ years of experience building secure, scalable applications. I approach every project with a hacker's mindset—thinking about attack surfaces, vulnerability patterns, and defensive architecture from day one.
+- 🧑‍💻 2+ years of experience building secure, scalable full-stack applications  
+- 💡 Focused on **attack surfaces**, **vulnerability patterns**, and **defensive architecture**  
+- 🔐 Passionate about cybersecurity: **pentesting**, **web security**, **forensics**
 
 ---
 
-## 🧰 Tech Arsenal
+## 🧰 Tech Stack & Tools
 
-| Category | Skills |
-|----------|--------|
-| **🔐 Security** | Pentesting · Web App Security · Digital Forensics · Vulnerability Analysis |
-| **💻 Languages** | C# · JavaScript · PHP · Python · HTML/CSS · C |
-| **⚙️ Frameworks** | ASP.NET MVC · Laravel · Blade · Bootstrap |
-| **☁️ Cloud & Tools** | Google Cloud · Git/GitHub · MySQL · Docker · Linux |
-
----
-
-## 🏆 Featured Projects
-
-### 🚀 **Revali** – Gamified Donation Platform
-**PUC Minas Hackathon Winner (ODS 2024)**
-
-A full-stack platform that gamifies food donations, converting real contributions into reward points.
-
-- 📊 **100+ tons of food donated** through the system
-- 💾 Backend: Laravel
-- 🎯 Impact: Connected donors with NGOs in real-time
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 💼 Professional Experience
+## 🏆 Highlight Project
 
-### 🧩 Full Stack Developer @ **IAtrix**
-**Apr 2025 – Present**
-- Developing secure full-stack applications using C# and ASP.NET MVC
-- Implementing secure architecture patterns and best practices
-- Collaborating on enterprise-level projects
-
-### 🔧 Back-End Developer @ **Mazeapps & PUC Minas**
-**Jul 2023 – Jan 2024**
-- Developed Laravel backends with security-aware coding practices
-- Managed GCP infrastructure and deployment pipelines
-- Implemented secure API endpoints and database architecture
+### 🚀 [Revali](#) – Gamified Donation Platform  
+🎯 **PUC Minas Hackathon Winner (ODS 2024)**  
+- Gamifies food donations, converting them into reward points  
+- +100 tons donated | Backend: Laravel | Real-time NGO integrations  
 
 ---
 
-## 📚 Certifications & Learning
+## 💼 Experience
 
-```
-✓ Cybersecurity Bootcamp – Santander (2025)
-✓ Web App Developing and Security · Pentesting · Digital Forensics
-✓ Network Security · Web Vulnerability Analysis
-```
+- **IAtrix – Full Stack Developer** *(2025–Present)*  
+  C#, ASP.NET MVC · Secure Architecture · Enterprise Systems  
 
----
-
-## 🎓 Education
-
-**Bachelor's in Computer Science**  
-Pontifícia Universidade Católica de Minas Gerais (PUC Minas)  
-📅 2022 – 2026
+- **Mazeapps & PUC Minas – Back-End Dev** *(2023–2024)*  
+  Laravel · GCP · Secure APIs · Deployment Pipelines  
 
 ---
 
-## 🔍 What I'm Into
+## 🎓 Education & Certs
 
-- 💻 Full-Stack Web Development – Building secure, scalable applications from frontend to backend
-- 🛡️ **Penetration Testing** – Finding vulnerabilities before the bad guys do
-- 🔐 **Web Application Security** – Securing the whole stack
-- 📱 **Digital Forensics** – Understanding attack patterns and evidence
-- 
+🎓 **B.Sc. Computer Science**, PUC Minas *(2022–2026)*  
+📜 **Cybersecurity Bootcamp – Santander (2025)**  
+• Pentesting · Web Security · Forensics · Network Defense
+
+---
+
+## 🔍 Interests
+
+- 💻 Full-Stack Development with Secure Architecture  
+- 🛡️ Penetration Testing & Vulnerability Hunting  
+- 🔐 Web Application Security (OWASP Top 10 & beyond)  
+- 📱 Digital Forensics & Incident Response
 
 ---
 
 ## 📡 Let's Connect
 
-```bash
-💻 GitHub:   github.com/PhabloAlves
-🔗 LinkedIn: linkedin.com/in/phablo-loureiro-alves/
-
-```
-
-**Hack the planet.** 🔐
+[![GitHub](https://img.shields.io/badge/GitHub-PhabloAlves-181717?style=for-the-badge&logo=github)](https://github.com/PhabloAlves)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Phablo%20Loureiro%20Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phablo-loureiro-alves)
 
 ---
+
+> `echo "Hack the planet."`  
+> 💾 Code hard. Hack smart. Stay secure.
