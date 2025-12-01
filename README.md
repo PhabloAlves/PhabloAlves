@@ -1,17 +1,11 @@
 # Hey, I'm Phablo 👋  
 **Full-Stack Developer with a Security Mindset**
 
-> I code with a hacker's mindset — security isn't a feature, it's the foundation.
-
----
-
 ## 🧠 About Me
 
 - 🧑‍💻 2+ years of experience building secure, scalable full-stack applications  
 - 💡 Focused on **attack surfaces**, **vulnerability patterns**, and **defensive architecture**  
 - 🔐 Passionate about cybersecurity: **pentesting**, **web security**, **forensics**
-
----
 
 ## 🧰 Tech Stack & Tools
 
@@ -37,7 +31,7 @@
 - Gamifies food donations, converting them into reward points  
 - +100 tons donated | Backend: Laravel | Real-time NGO integrations  
 
----
+
 
 ## 💼 Experience
 
@@ -47,7 +41,7 @@
 - **Mazeapps & PUC Minas – Back-End Dev** *(2023–2024)*  
   Laravel · GCP · Secure APIs · Deployment Pipelines  
 
----
+
 
 ## 🎓 Education & Certs
 
@@ -55,7 +49,7 @@
 📜 **Cybersecurity Bootcamp – Santander (2025)**  
 • Pentesting · Web Security · Forensics · Network Defense
 
----
+
 
 ## 🔍 Interests
 
@@ -64,14 +58,13 @@
 - 🔐 Web Application Security (OWASP Top 10 & beyond)  
 - 📱 Digital Forensics & Incident Response
 
----
 
 ## 📡 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-PhabloAlves-181717?style=for-the-badge&logo=github)](https://github.com/PhabloAlves)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Phablo%20Loureiro%20Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phablo-loureiro-alves)
+<div style="display: inline_block" align="left">
+  <a href="https://www.linkedin.com/in/phablo-loureiro-alves/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
----
 
-> `echo "Hack the planet."`  
-> 💾 Code hard. Hack smart. Stay secure.
