@@ -26,30 +26,16 @@
 
 ## 🏆 Highlight Project
 
-### 🚀 [Revali](#) – Gamified Donation Platform  
+### 🚀 [Revali](#https://pucpcaldas.br/news.php?id=3801) – Gamified Donation Platform  
 🎯 **PUC Minas Hackathon Winner (ODS 2024)**  
 - Gamifies food donations, converting them into reward points  
 - +100 tons donated | Backend: Laravel | Real-time NGO integrations  
-
-
-
-## 💼 Experience
-
-- **IAtrix – Full Stack Developer** *(2025–Present)*  
-  C#, ASP.NET MVC · Secure Architecture · Enterprise Systems  
-
-- **Mazeapps & PUC Minas – Back-End Dev** *(2023–2024)*  
-  Laravel · GCP · Secure APIs · Deployment Pipelines  
-
-
 
 ## 🎓 Education & Certs
 
 🎓 **B.Sc. Computer Science**, PUC Minas *(2022–2026)*  
 📜 **Cybersecurity Bootcamp – Santander (2025)**  
 • Pentesting · Web Security · Forensics · Network Defense
-
-
 
 ## 🔍 Interests
 
